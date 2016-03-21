@@ -1,0 +1,8 @@
+c:\users\neuron\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+c:\users\neuron\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+c:\users\neuron\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+c:\users\neuron\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.csprojResolveAssemblyReference.cache
+c:\users\neuron\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+c:\users\neuron\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
+c:\users\neuron\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\taglib-sharp.dll
+c:\users\neuron\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\taglib-sharp.pdb
