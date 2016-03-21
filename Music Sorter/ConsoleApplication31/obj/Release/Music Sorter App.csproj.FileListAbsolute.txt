@@ -1,0 +1,15 @@
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Release\ConsoleApplication31.exe.config
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Release\ConsoleApplication31.exe
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Release\ConsoleApplication31.pdb
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Release\taglib-sharp.dll
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Release\taglib-sharp.pdb
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Release\ConsoleApplication31.exe
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Release\ConsoleApplication31.pdb
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\Music Sorter\ConsoleApplication31\bin\Release\ConsoleApplication31.exe.config
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\Music Sorter\ConsoleApplication31\obj\Release\ConsoleApplication31.exe
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\Music Sorter\ConsoleApplication31\obj\Release\ConsoleApplication31.pdb
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\Music Sorter\ConsoleApplication31\bin\Release\ConsoleApplication31.exe
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\Music Sorter\ConsoleApplication31\bin\Release\ConsoleApplication31.pdb
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\Music Sorter\ConsoleApplication31\bin\Release\taglib-sharp.dll
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\Music Sorter\ConsoleApplication31\bin\Release\taglib-sharp.pdb
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\Music Sorter\ConsoleApplication31\obj\Release\Music Sorter App.csprojResolveAssemblyReference.cache

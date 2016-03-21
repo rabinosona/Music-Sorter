@@ -1,0 +1,8 @@
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\taglib-sharp.dll
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\taglib-sharp.pdb
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\Music Sorter App.csprojResolveAssemblyReference.cache
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+C:\Users\Neuron\Documents\Visual Studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
